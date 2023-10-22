@@ -1,6 +1,7 @@
 # web-store-backend
 
 This repository contains code of a learning project called: "Web store backend".
+
 It's purpose is to build a REST API that allows users to shop for clothes.
 
 ## Learning
