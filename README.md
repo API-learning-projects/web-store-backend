@@ -11,8 +11,6 @@ It's purpose is to build a REST API that allows users to shop for clothes.
 - Spring Security
 - Spring testing
 - PostgreSQL
-- Microservices
-- DevOps
 - UML diagrams
 - Patterns
 - SOLID
