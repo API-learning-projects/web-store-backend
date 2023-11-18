@@ -11,12 +11,15 @@ It's purpose is to build a REST API that allows users to shop for clothes.
 - Spring Security
 - Spring testing
 - MySQL
+- MongoDB
+- Caching
 - UML diagrams
 - Patterns
 - SOLID
 - GRASP
 
 ## Requirements
+
 - User must be able to view all clothes.
 - User must be able to filter clothes (size, color, type, etc.).
 - User must be able to view a single piece of clothing.
