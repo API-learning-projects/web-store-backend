@@ -10,7 +10,7 @@ It's purpose is to build a REST API that allows users to shop for clothes.
 - Spring Data JPA
 - Spring Security
 - Spring testing
-- PostgreSQL
+- MySQL
 - UML diagrams
 - Patterns
 - SOLID
