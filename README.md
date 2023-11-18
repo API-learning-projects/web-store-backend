@@ -12,7 +12,9 @@ It's purpose is to build a REST API that allows users to shop for clothes.
 - Spring testing
 - MySQL
 - MongoDB
+- Redis
 - Caching
+- Rate limiting
 - UML diagrams
 - Patterns
 - SOLID
