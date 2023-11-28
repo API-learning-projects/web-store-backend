@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/ongoing/)
+
 # web-store-backend
 
 This repository contains code of a learning project called: "Web store backend".
